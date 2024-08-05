@@ -1,4 +1,4 @@
-#GIFT LIST
+# GIFT LIST
 
 in this i have implemented merkle tree data structure, i have also used `ethereum-cryptography` library to hash the items.
 
